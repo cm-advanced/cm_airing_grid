@@ -23,7 +23,7 @@ files[] = includes/taxonomy_util.inc
 scripts[] = cm_airing_grid.js
 
 
-version = "7.x-2.1"
+version = "7.x-2.2"
 core = "7.x"
 project = "cm_airing_grid"
 project_status_url = https://github.com/cm-advanced/cm_airing_grid
